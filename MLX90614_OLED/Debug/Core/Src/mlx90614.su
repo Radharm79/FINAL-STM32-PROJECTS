@@ -1,0 +1,2 @@
+../Core/Src/mlx90614.c:3:19:MLX90614_Init	16	static
+../Core/Src/mlx90614.c:10:7:MLX90614_ReadTemp	48	static
